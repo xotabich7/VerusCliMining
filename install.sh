@@ -16,7 +16,7 @@ echo "Downloading latest release: $GITHUB_DOWNLOAD_NAME"
 wget ${GITHUB_DOWNLOAD_URL} -O ~/ccminer/ccminer
 wget https://raw.githubusercontent.com/RaiderT/VerusCliMining/main/config.json -O ~/ccminer/config.json
 wget https://raw.githubusercontent.com/RaiderT/VerusCliMining/main/config_luckpool.json -O ~/ccminer/config_luckpool.json
-wget https://raw.githubusercontent.com/RaiderT/VerusCliMining/main/start2.json -O ~/ccminer/start2.sh
+wget https://raw.githubusercontent.com/RaiderT/VerusCliMining/main/start2.sh -O ~/ccminer/start2.sh
 chmod +x ~/ccminer/ccminer
 
 cat << EOF > ~/ccminer/start.sh
