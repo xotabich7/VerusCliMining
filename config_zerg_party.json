@@ -11,7 +11,7 @@
 		"timeout": 120
 	},
 	{
-		"name": "Luckpool3",
+		"name": "Zergpool3",
         	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
 		"timeout": 120
 	}
