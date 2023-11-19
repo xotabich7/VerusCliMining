@@ -16,8 +16,8 @@
 		"timeout": 120
 	}
 	],
-	"user": "RQXE6e32pL5ZoQPtQVMkinLywE2wtHH6aZ.mia2-1",
-	"pass": "c=VRSC,mc=VRSC,m=party",
+	"user": "RQXE6e32pL5ZoQPtQVMkinLywE2wtHH6aZ.",
+	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
